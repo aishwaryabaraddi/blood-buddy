@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860554124071",
+    "project_id": "blood-buddy-3ae73",
+    "storage_bucket": "blood-buddy-3ae73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860554124071:android:7ff6d99cf14068b83be702",
+        "android_client_info": {
+          "package_name": "com.example.bloodbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-27N3cOjaUJAiCa1o008KSkXuNxdu8fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
